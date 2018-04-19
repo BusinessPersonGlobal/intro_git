@@ -1,3 +1,5 @@
 Gitの練習をしていく
 基本を学ぶよ！
 オクラ原人
+.git add
+.git commit
