@@ -3,3 +3,4 @@
 オクラ原人
 .git add
 .git commit
+.git rm
