@@ -1,5 +1,5 @@
-Git‚Ì—ûK‚ð‚µ‚Ä‚¢‚­
-Šî–{‚ðŠw‚Ô‚æI
-ƒIƒNƒ‰Œ´l
+ï»¿Gitã®ç·´ç¿’ã‚’ã—ã¦ã„ã
+åŸºæœ¬ã‚’å­¦ã¶ã‚ˆï¼
+ã‚ªã‚¯ãƒ©åŽŸäºº
 .git add
 .git commit
